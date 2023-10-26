@@ -1,0 +1,112 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:hsla(300, 100%, 27%, 0.501);
+    background-image: url(image/vegetables-set-left-black-slate.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-position:1;
+    
+}
+
+
+/* Style the header (h1) element */
+h1 {
+    background-color: #ffcc00;
+    text-align: center;
+    padding: 20px;
+    color: #333;
+}
+p{
+    color: #fff;
+}
+
+/* Style the navigation links (a) */
+a {
+    text-decoration: none;
+    color: #333;
+    margin: 5px;
+}
+
+/* Style the navigation links on hover */
+a:hover {
+    color: #f8bb05;
+}
+
+/* Style the h3 elements */
+h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+
+/* Style the images */
+.img2{
+    
+    max-width: 100%;
+    padding: 10px;
+   
+    padding-bottom: 100px;
+    
+
+}
+p{  width: 50%;
+    padding: 10px;
+
+}
+p.des{
+    
+    width: 75%;
+    padding-top: 10px;
+   display: inline-block;
+   width: 750px;
+
+        
+}
+ul{
+    margin: 50px;
+}
+a{
+   
+    display: inline-block;
+    background-color: hsla(180, 100%, 50%, 0.392);
+    border-style:solid;
+    color:rgb(1, 1, 133);
+
+    border-color: black;
+    padding: 1%;
+    
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid #333;
+   margin-bottom: 20px;
+
+}
+th {
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px;
+}
+
+
+td {
+    border: 1px solid #333;
+    padding: 8px;
+    color: #35013d;
+    text-shadow: #000000;
+}
+tr{
+    background-color: hsla(0, 0%, 95%, 0.521);
+}
+#Starters {
+    margin-left: 60px;
+}
+p{
+    text-align: justify;
+}
